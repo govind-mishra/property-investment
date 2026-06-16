@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prop-1001",
+    "name": "Central City Residence",
+    "location": "Tokyo, Japan",
+    "price": 385000,
+    "image": "/assets/properties/cityresidence.svg",
+    "annualYield": 5.9
+  },
+  {
+    "id": "prop-1002",
+    "name": "Suburban house",
+    "location": "Osaka, Japan",
+    "price": 310000,
+    "image": "/assets/properties/subrbanhouse.svg",
+    "annualYield": 7.2
+  },
+  {
+    "id": "prop-1003",
+    "name": "Riverside Office Tower",
+    "location": "Fukuoka, Japan",
+    "price": 198000,
+    "image": "/assets/properties/officetower.svg",
+    "annualYield": 6.4
+  }
+]

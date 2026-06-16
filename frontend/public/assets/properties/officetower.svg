@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Static SVG for Office Tower -->
+<svg width="220" height="160" viewBox="0 0 220 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Office tower illustration">
+  <rect width="220" height="160" fill="#eef2ff" />
+  <rect x="0" y="120" width="220" height="40" fill="#e5e7eb" />
+
+  <!-- Tower -->
+  <rect x="80" y="40" width="60" height="80" rx="4" fill="#1f2937" />
+
+  <!-- Floors -->
+  <rect x="88" y="48" width="44" height="10" rx="2" fill="#38bdf8" />
+  <rect x="88" y="64" width="44" height="10" rx="2" fill="#38bdf8" />
+  <rect x="88" y="80" width="44" height="10" rx="2" fill="#38bdf8" />
+  <rect x="88" y="96" width="44" height="10" rx="2" fill="#38bdf8" />
+
+  <!-- Entrance -->
+  <rect x="100" y="90" width="20" height="30" rx="3" fill="#0f172a" />
+
+  <!-- Side block -->
+  <rect x="145" y="60" width="35" height="60" rx="3" fill="#4b5563" />
+  <rect x="152" y="68" width="20" height="12" rx="2" fill="#a5b4fc" />
+  <rect x="152" y="86" width="20" height="12" rx="2" fill="#a5b4fc" />
+</svg>
